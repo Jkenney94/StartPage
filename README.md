@@ -9,3 +9,6 @@ By default the links are non-functioning, as the menus were setup to for a video
 
 ##Trystanr
 Hey this is a fork of the original homepage with a few little twists of my own to increase user experience and add some meme animations (As well as removing some things).
+
+##Icons
+List of icons: https://css-tricks.com/flat-icons-icon-fonts/
