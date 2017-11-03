@@ -1,5 +1,9 @@
-#Homepage-v5-trystanr
+#StartPage
 
+#GivingCredit
+This is a copy of homepage-v5-trystanr from https://github.com/TacoAnon/Homepages.
+
+#Homepage-v5-trystanr
 This version of homepage-v5 has been modified by [@trystanr](https://github.com/Trystanr) to include a help for search bar commands. 
 
 ##IMPORTANT
