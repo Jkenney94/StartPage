@@ -15,4 +15,7 @@ By default the links are non-functioning, as the menus were setup to for a video
 Hey this is a fork of the original homepage with a few little twists of my own to increase user experience and add some meme animations (As well as removing some things).
 
 ##Icons
-List of icons: https://css-tricks.com/flat-icons-icon-fonts/
+http://fontawesome.io/ for the icons
+
+##Background
+Project Ashe Wallpaper from Riot Games League of Legends
